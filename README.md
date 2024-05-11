@@ -38,12 +38,12 @@ Before running any code from this repo you have to:
 
 ## Examples
 Turn on Carla
-'
+`
 YOUR_PATH_TO_CARLA/carla/CARLA_0.9.9.4/./CarlaUE4.sh
-'
+`
 
 Run the 1st stage training:
-'
+`
 cd /YOUR_PATH_TO_CARLA/carla/carla-driving-rl-agent
 python3 main.py
-'
+`
